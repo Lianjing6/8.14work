@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.40.0.0
+  generators:
+    - board: ""
+      device: STM32F405RGTx
+      id: CubeMX
+      output: D:/8.13/BREATH_LIGHT/MDK-ARM/STM32CubeMX/BREATH_LIGHT/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: D:/8.13/BREATH_LIGHT/MDK-ARM/BREATH_LIGHT.BREATH_LIGHT.cbuild-gen.yml
+          configuration: .BREATH_LIGHT
+          name: D:/8.13/BREATH_LIGHT/MDK-ARM/STM32CubeMX/BREATH_LIGHT/BREATH_LIGHT.cgen.yml
+          project: BREATH_LIGHT
